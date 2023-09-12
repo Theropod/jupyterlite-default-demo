@@ -1,12 +1,12 @@
 # JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://theropod.github.io/jupyterlite-demo/)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Modified version of jupyterlite-demo. A proof-of-concept of conda-based earth system science software stack on jupyterlite.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://theropod.github.io/jupyterlite-demo/**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
